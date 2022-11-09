@@ -1,0 +1,33 @@
+[
+    {
+        "title":"Philips Headset",
+        "imagename":"zBeats-Solo.png",
+        "price":"2499"
+    },
+    {
+        "title":"New Apple Ipod",
+        "imagename":"zapple_iPod_2A@2x.png",
+        "price":"29,999"
+    },
+    {
+        "title":"Apple Watch 21-1",
+        "imagename":"zApple-Watch-21-1@2x.png",
+        "price":"19,999"
+    },
+    {
+        "title":"Apple Ipad 3A)",
+        "imagename":"zApple Ipad@2x.png",
+        "price":"35,000"
+    },
+    {
+        "title":"Apple Camera (Lens)",
+        "imagename":"zdesign-hero_2x@2x.png",
+        "price":"28,999"
+    },
+    {
+        "title":"Apple MacBook Pro",
+        "imagename":"zNew-Apple-Mac-Mini@2x.png",
+        "price":"1,69,990"
+    }
+    
+]
